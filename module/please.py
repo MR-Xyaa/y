@@ -1,9 +1,9 @@
 import os, sys
 
 print ("\033[1;32mMasukan UserName&Password:)")
-print ("\033[1;31;1mKalo Gak Tau Pm Mr.BAJINGAN 083108271123")
-username = 'Xyaa'      
-password = 'Gans'
+print ("\033[1;31;1mKalo Gak Tau Pm MR-Xyaa 083138613993")
+username = 'MR'      
+password = 'Xyaa'
 
 def restart():
 	ngulang = sys.executable
@@ -15,7 +15,7 @@ def main():
 		pwd = raw_input("password : ")
 
 		if pwd == password:
-			print "\n\033[1;34mHello Welcome To Tools B4J1N64N", 
+			print "\n\033[1;34mHello Welcome To Tools MR-Xyaa", 
 			sys.exit()
 
 		else:
