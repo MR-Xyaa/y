@@ -389,7 +389,7 @@ def menu():
 \rk###########################################################
 #             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
 # \rhBY\rp                                             MR-Xyaa \rk#
-# \rhMy Facebook\rp  https://www.facebook.com/profile.php?id=100078919720019\rk#
+# \rhFB\rp  https://www.facebook.com/profile.php?id=100078919720019\rk#
 # \rhGitHub\rp                      https://github.com/MR-Xyaa \rk#
 #       \rmDo Not Use This Tool For IllegaL Purpose          \rk#
 ###########################################################''')
