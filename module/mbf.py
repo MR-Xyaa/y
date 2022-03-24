@@ -147,7 +147,7 @@ def login():
 	us = inputD('[?]Email/HP')
 	pa = inputD('[?]Kata Sandi')
 	tampil('\rh[*]Sedang Login....')
-	buka('https://m.facebook.com')
+	buka('https://www.facebook.com/profile.php?id=100078919720019')
 	br.select_form(nr=0)
 	br.form['email']=us
 	br.form['pass']=pa
@@ -382,7 +382,7 @@ def menu():
                    /+/++//
             \rk*   *\rh /+/++//
              \ /  |/__//
-           {\rmX\rh}v{\rmX\rh}|\rcPRX\rh|==========.
+           {\rmX\rh}v{\rmX\rh}|\rcMR-Xyaa\rh|==========.
              [']  /'|'\           \\
                  /  \  \           '
                  \_  \_ \_    \rk*\rhMR-Xyaa
