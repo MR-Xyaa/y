@@ -3,3 +3,5 @@
 cd module
 
 python2 please.py
+
+clear
