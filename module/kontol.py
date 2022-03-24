@@ -1,2 +1,2 @@
-print ('ASU KOE YAH')
-ASU KOE YAH [Program finised]
+print ('Asu koe!)
+Asu koe! [Program finised]
