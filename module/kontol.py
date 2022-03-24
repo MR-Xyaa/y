@@ -1,2 +1,2 @@
 print ('ASU KOE YAH')
-ASU KOE YAH! [Program finised]
+ASU KOE YAH [Program finised]
